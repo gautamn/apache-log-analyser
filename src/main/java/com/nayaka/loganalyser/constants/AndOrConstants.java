@@ -1,4 +1,4 @@
-package com.andor.misc.constants;
+package com.nayaka.loganalyser.constants;
 
 public interface AndOrConstants {
 

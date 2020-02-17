@@ -12,9 +12,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
-import com.andor.core.util.SpringApplicationContext;
-import com.andor.misc.thumbnails.LogAnalyser;
 import com.nayaka.loganalyser.enums.UTILITY;
+import com.nayaka.loganalyser.service.LogAnalyser;
+import com.nayaka.loganalyser.util.SpringApplicationContext;
 
 @SpringBootApplication
 @Configuration
